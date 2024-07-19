@@ -135,7 +135,7 @@ Ensure all these requirements are met before deploying the CrowdstrikeFix soluti
 
 ## 🤝 Contributions
 
-We welcome contributions to improve and refine this solution. If you're interested in collaborating, please reach out to @SwedishFighters on X.
+We welcome contributions to improve and refine this solution. If you're interested in collaborating, please reach out to @t1gerp4w on X.
 
 ## 📜 License
 
