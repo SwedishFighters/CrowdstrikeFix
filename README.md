@@ -1,4 +1,4 @@
-## ⚠️ Disclaimer
+## ⚠️ Important
 
 This project is not affiliated with, endorsed by, or in any way officially connected to CrowdStrike, Inc.
 CrowdStrike® and the CrowdStrike logo are the registered trademarks of CrowdStrike, Inc. All rights to the CrowdStrike name, logo, and brand belong to CrowdStrike, Inc.
@@ -134,7 +134,7 @@ Ensure all these requirements are met before deploying the CrowdstrikeFix soluti
 
 ## 🤝 Contributions
 
-We welcome contributions to improve and refine this solution. If you're interested in collaborating, please reach out to @SwedishFighters on Twitter.
+We welcome contributions to improve and refine this solution. If you're interested in collaborating, please reach out to @SwedishFighters on X.
 
 ## 📜 License
 
