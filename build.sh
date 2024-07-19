@@ -32,7 +32,7 @@ d-i partman/choose_partition select finish
 d-i partman/confirm boolean true
 d-i partman/confirm_nooverwrite boolean true
 tasksel tasksel/first multiselect standard
-d-i pkgsel/include string openssh-server dislocker ldap-utils krb5-user
+d-i pkgsel/include string openssh-server dislocker ldap-utils krb5-user ntfs-3g fuse cryptsetup
 d-i grub-installer/only_debian boolean true
 d-i grub-installer/with_other_os boolean true
 d-i finish-install/reboot_in_progress note
