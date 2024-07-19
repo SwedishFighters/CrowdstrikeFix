@@ -3,6 +3,7 @@
 This project is not affiliated with, endorsed by, or in any way officially connected to CrowdStrike, Inc.
 CrowdStrike® and the CrowdStrike logo are the registered trademarks of CrowdStrike, Inc. All rights to the CrowdStrike name, logo, and brand belong to CrowdStrike, Inc.
 CrowdStrike, Inc. is a cybersecurity technology company founded in 2011 by George Kurtz, Dmitri Alperovitch, and Gregg Marston. The company is headquartered in Austin, Texas, United States.
+
 This repository is an independent project aimed at addressing specific issues related to CrowdStrike software updates. It is not an official solution provided by CrowdStrike, Inc.
 
 For official support and information about CrowdStrike products, please visit [www.crowdstrike.com](https://www.crowdstrike.com).
