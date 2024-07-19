@@ -1,5 +1,5 @@
 ## ⚠️ Disclaimer
-<img src="https://www.crowdstrike.com/wp-content/uploads/2022/09/CS_Logo_2022_Primary_RGB_Falcon-Red.png" width="200" alt="CrowdStrike Logo">
+
 This project is not affiliated with, endorsed by, or in any way officially connected to CrowdStrike, Inc.
 CrowdStrike® and the CrowdStrike logo are the registered trademarks of CrowdStrike, Inc. All rights to the CrowdStrike name, logo, and brand belong to CrowdStrike, Inc.
 CrowdStrike, Inc. is a cybersecurity technology company founded in 2011 by George Kurtz, Dmitri Alperovitch, and Gregg Marston. The company is headquartered in Austin, Texas, United States.
