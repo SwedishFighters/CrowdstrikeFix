@@ -8,6 +8,10 @@ This repository is an independent project aimed at addressing specific issues re
 
 For official support and information about CrowdStrike products, please visit [www.crowdstrike.com](https://www.crowdstrike.com).
 
+## ⚠️ What you should know
+1) This is a proof of concept solution, not a finished one and needs work. 
+2) Requires a disk for a full debian install (USB would suffice)
+3) If built, you are sharing admin credentials built into the script (LDAP-lookups for the Bitlocker recovery key)
 
 # 🛠️ CrowdstrikeFix
 
