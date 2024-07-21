@@ -211,4 +211,11 @@ label debian-installer
   append vga=788 initrd=debian-installer/amd64/initrd.gz auto=true priority=critical url=http://\${http_server}/preseed.cfg
 EOF
 
+# Modify Grub configuration
+cat << EOF > debian-installer/amd64/grub/grub.cfg
+menuentry 'Fix CrowdStrike' {
+  linux   debian-installer/amd64/linux
+  initrd  debian-installer/amd64/initrd.gz auto=true priority=critical url=\${http_server}/preseed.cfg append vga=788
+}
+EOF
 echo "Build complete. Please set up a web server to serve preseed.cfg and post-install.sh, and configure your DHCP server for PXE boot."
